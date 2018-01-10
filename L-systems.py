@@ -1,4 +1,6 @@
 #Name: Ying Zhang
+#Lindenmayer Fractals (L-systems)
+
 
 
 from turtle import*
