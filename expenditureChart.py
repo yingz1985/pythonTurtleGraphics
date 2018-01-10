@@ -1,3 +1,6 @@
+#The purpose of this exercise is to create a column chart based on the user's entered values. 
+#Besides creating the columns, the program also highlights the value that has the largest value.
+
 from turtle import*
 bob= Turtle()
 scr=bob.getscreen()
