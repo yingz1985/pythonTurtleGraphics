@@ -1,5 +1,5 @@
 #Ying Zhang
-
+#Asks for user input and turns it into a checkerboard with alternating three colors 
 
 from turtle import*
 bob= Turtle()
